@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2D3291912C06F36A0086C015 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D3291902C06F36A0086C015 /* HomeView.swift */; };
 		2DA1DE832C05F7B200A388D0 /* SwiftfulSourceControlApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DA1DE822C05F7B200A388D0 /* SwiftfulSourceControlApp.swift */; };
 		2DA1DE852C05F7B200A388D0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2DA1DE842C05F7B200A388D0 /* ContentView.swift */; };
 		2DA1DE872C05F7B300A388D0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2DA1DE862C05F7B300A388D0 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2D3291902C06F36A0086C015 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		2DA1DE7F2C05F7B200A388D0 /* SwiftfulSourceControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulSourceControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2DA1DE822C05F7B200A388D0 /* SwiftfulSourceControlApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulSourceControlApp.swift; sourceTree = "<group>"; };
 		2DA1DE842C05F7B200A388D0 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				2DA1DE822C05F7B200A388D0 /* SwiftfulSourceControlApp.swift */,
 				2DA1DE842C05F7B200A388D0 /* ContentView.swift */,
+				2D3291902C06F36A0086C015 /* HomeView.swift */,
 				2DA1DE862C05F7B300A388D0 /* Assets.xcassets */,
 				2DA1DE882C05F7B300A388D0 /* SwiftfulSourceControl.entitlements */,
 				2DA1DE892C05F7B300A388D0 /* Preview Content */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D3291912C06F36A0086C015 /* HomeView.swift in Sources */,
 				2DA1DE852C05F7B200A388D0 /* ContentView.swift in Sources */,
 				2DA1DE832C05F7B200A388D0 /* SwiftfulSourceControlApp.swift in Sources */,
 			);
