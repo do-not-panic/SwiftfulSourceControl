@@ -6,6 +6,13 @@
 //
 
 /*
+ Clone = copying the repo locally
+ Commit = save ("checkpoint") on our current branch
+ Staging = Prepare changes for a commit
+ Stash = Save changes for later
+ Push = send local commit to remore repo
+ Pull = Fetch remote commits to local repo
+ 
  COMMIT MESSAGES
  
  NEW FEATURE:
