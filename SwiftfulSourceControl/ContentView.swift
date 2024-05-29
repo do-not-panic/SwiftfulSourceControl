@@ -11,17 +11,17 @@
  NEW FEATURE:
  [Feature] Description of the Feature
  
- BUG IN PRODUCTION:
- [Patch] Description of Patch
- 
  BUG NOT IN PRODUCTION:
  [Bug] Description of Bug
  
- MUDANE TASKS:
- [Clean] Description of Changes
- 
  RELEASE:
  [Release] Description of Release
+ 
+ BUG IN PRODUCTION:
+ [Patch] Description of Patch
+ 
+ MUDANE TASKS:
+ [Clean] Description of Changes
  
  */
 
